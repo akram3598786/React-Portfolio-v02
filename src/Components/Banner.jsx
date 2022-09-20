@@ -40,7 +40,7 @@ const Banner = () => {
               <button className="learn-more">
                 <a
                   href={
-                    "https://drive.google.com/file/d/1vV14PclUddc4S9fbZPF23xfS_J_mLZHg/view?usp=sharing"
+                    "https://drive.google.com/file/d/16NfQzxOqL7uok4AInTApqXd4vhCGDUHz/view?usp=sharing"
                   }
                   target={"_blank"}
                 >
