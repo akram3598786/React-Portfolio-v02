@@ -28,7 +28,7 @@ let projectData = [
     desc: "Clone of Red bus website. All Ticket booking and managing functionalities, Ride and RailRide pages with animations. Login, signup and user profile ",
     team: "A collaborative project, built in 7 days by team of 3 members.",
     git: "https://github.com/akram3598786/Red-Bus-Clone",
-    deployed: "https://clone-redbus.netlify.app/",
+    deployed: "https://redbus-clone-v02.netlify.app/",
     techStack:
       " HTML5 | CSS3 | Javascript | JSON Server | Postman | git",
     blog: "#",

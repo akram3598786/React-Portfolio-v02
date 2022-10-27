@@ -62,7 +62,7 @@ const Banner = () => {
               <a href="https://github.com/akram3598786" target={"_blank"}>
                 <BsGithub className="socialIcons" />
               </a>
-              <a href="mailto:developerakky2407@gmail.com" target={"_blank"}>
+              <a href="mailto:itsakram3598@gmail.com" target={"_blank"}>
                 <SiGmail className="socialIcons" />
               </a>
             </div>

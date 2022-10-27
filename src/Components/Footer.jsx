@@ -47,7 +47,7 @@ const Footer = () => {
               <span>
                 <SiGmail />
               </span>
-              <span>developerakky2407@gmail.com</span>
+              <span>itsakram3598@gmail.com</span>
             </a>
           </div>
           <div>

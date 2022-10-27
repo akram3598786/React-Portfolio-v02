@@ -113,13 +113,6 @@ const Skills = () => {
                     </span>
                     <p>Bootstrap</p>
                   </li>
-                  <li>
-                    <span>
-                      <SiSocketdotio />
-                    </span>
-                    <p>Socket.Io</p>
-                  </li>
-                 
                 </Fade>
               </ul>
             </div>
@@ -169,12 +162,6 @@ const Skills = () => {
                     </span>
                     <p>Mongoose</p>
                   </li>
-                  <li>
-                    <span>
-                      <SiRedis fill="#dc382c" />
-                    </span>
-                    <p>Redis</p>
-                  </li>
                 </Fade>
               </ul>
             </div>
@@ -190,12 +177,6 @@ const Skills = () => {
                     <SiGit fill="#f34f29" />
                   </span>
                   <p>Git</p>
-                </li>
-                <li>
-                  <span>
-                    <SiCypress />
-                  </span>
-                  <p>Cypress</p>
                 </li>
                 <li>
                   <span>
@@ -232,12 +213,6 @@ const Skills = () => {
                     <SiNpm fill="#e55c5c" />
                   </span>
                   <p>NPM</p>
-                </li>
-                <li>
-                  <span>
-                    <SiVercel />
-                  </span>
-                  <p>Vercel</p>
                 </li>
                 <li>
                   <span>
