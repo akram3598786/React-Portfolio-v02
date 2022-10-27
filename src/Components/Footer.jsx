@@ -55,7 +55,7 @@ const Footer = () => {
               <span>
                 <BsTelephoneFill />
               </span>
-              <span>+91 9115220549</span>
+              <span>+91 9315220549</span>
             </p>
           </div>
         </Fade>
