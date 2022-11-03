@@ -46,6 +46,7 @@ const Wrapper = styled.div`
     .title {
       font-size: 26px;
       font-weight: 500;
+      margin-bottom: -10px;
       color: #3b82f6;
     }
     color: #f1f5f9;
