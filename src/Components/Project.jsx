@@ -41,7 +41,7 @@ let projectData = [
     id: 3,
     heroImage:`${royalbrothersImg}`,
     title: "Royal Brothers Clone",
-    desc: "Its a bike rental and e-commerce website. User can book bike by ckecking availability for concerned city. This application also have E-commerce module where user can add products in carts along with all dynamic details. User can purchase products by validating payment details. Signup | Login | Payment Gateway | Animations.",
+    desc: "Its a bike rental and e-commerce website. User can book bike by ckecking availability for concerned city.User can add products in carts along with all dynamic details. User can purchase products by validating payment details. Signup | Login | Payment Gateway | Animations.",
     team: "A collaborative project, built in 5 days by team of 3 members.",
     git: "https://github.com/akram3598786/Royal-Brothers-Clone",
     deployed: "https://royal-brothers-clone.netlify.app/",
