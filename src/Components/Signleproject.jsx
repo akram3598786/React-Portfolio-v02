@@ -50,12 +50,23 @@ const Wrapper = styled.div`
     }
     color: #f1f5f9;
     font-size: 14px;
+    .rank{
+      background : darkslategray;
+      padding : 3px 5px;
+      border-radios : 6px;
+      margin-bottom : -8px;
+    }
+    .rankDiv{
+      margin-bottom : -10px;
+    }
   }
 
   .buttonsCon {
     position: absolute;
     bottom: 0;
-    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    // background : yellow;
 
     /* border: 1px solid white; */
     display: flex;
@@ -147,6 +158,7 @@ const Signleproject = ({
   deployed,
   techStack,
   blog,
+   rank
 }) => {
   return (
     <Wrapper>
@@ -157,11 +169,15 @@ const Signleproject = ({
       </div>
       <div className="descCon">
         <Fade direction="up" duration={800}>
+
           <p className="title">{title}</p>
+          <div className="rankDiv">{rank ? <p className="rank">Got 2nd Rank in construct week at MASAI School</p> : ""}</div>
+          {/* <p  className="rank">{rank ? "Got 2nd Rank in construct week at MASAI School" : ""}</p> */}
 
           <p>{desc}</p>
           <p>{techStack}</p>
           <p>{team}</p>
+          {/* <p>{rank ? "Got 2nd Rank in construct week at MASAI School" : ""}</p  > */}
         </Fade>
       </div>
       <div className="buttonsCon">
