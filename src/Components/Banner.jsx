@@ -39,8 +39,11 @@ const Banner = () => {
             <div className="typeButtons">
               <button className="learn-more">
                 <a
+                  // href={
+                  //   "https://drive.google.com/drive/u/1/folders/1DSlHmR99S05j-tCqmgLncARfS3D2T46X"
+                  // }
                   href={
-                    "https://drive.google.com/drive/u/1/folders/1DSlHmR99S05j-tCqmgLncARfS3D2T46X"
+                    "https://drive.google.com/file/d/1pJ9sPnfZL1ODCuvOlx69LDWPYDPcNjkg/view?usp=sharing"
                   }
                   target={"_blank"}
                 >
