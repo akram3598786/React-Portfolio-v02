@@ -5,8 +5,6 @@ import { BsLinkedin, BsGithub } from "react-icons/bs";
  import Avatar1 from "../assets/image/profilePic.png";
  import Avatar2 from "../assets/image/profilePic-2.jpg";
  
-
-
 import { SiGmail } from "react-icons/si";
 
 const Banner = () => {

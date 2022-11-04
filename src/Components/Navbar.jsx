@@ -66,13 +66,6 @@ const Navbar = () => {
             >
               Contact
             </li>
-            <li
-              onClick={() => {
-                setShowMenu(false);
-              }}
-            >
-              Resume
-            </li>
           </ul>
         </div>
         <div className="icons">
